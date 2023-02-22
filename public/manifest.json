@@ -1,0 +1,15 @@
+{
+    "short_name": "book-shelf",
+    "name": "book-shelf",
+    "icons": [
+        {
+            "src": "./logos/icon.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display": "fullscreen",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
